@@ -73,49 +73,16 @@ Foursquare Clone is a mobile application for iOS that allows users to explore pl
 - **Storyboard**: For designing the user interface.
 - **CocoaPods**: Dependency management.
 
-## Development Process
+## Screenshots & Video Demo
 
-1. **User login and registration screens**:
-   - Integrated Parse Authentication for user login and registration functionality.
-
-2. **Venue list and detail screens**:
-   - Fetched and displayed data from the Parse database.
-   - Added map integration for viewing venues on the map.
-
-3. **Favorites feature**:
-   - Enabled users to save their favorite venues.
-
-4. **User interface with Storyboard**:
-   - Designed all screens using Storyboard and set up transitions with segues.
-
-5. **Map integration**:
-   - Used MapKit to show venues on the map.
-
-## Screenshots
+### Screenshots
+<img width="1439" alt="Ekran Resmi 2024-11-29 14 00 18" src="https://github.com/user-attachments/assets/b2bc0ecc-0126-441e-bf3d-bdd2dc2c3ce2">
+<img width="1440" alt="Ekran Resmi 2024-11-29 14 00 07" src="https://github.com/user-attachments/assets/5f49d9cc-5de4-4828-9446-a06be2198dab">
 
 
-https://github.com/user-attachments/assets/7187ff07-189e-49a3-8823-343d177f5965
-<img width="1439" alt="Ekran Resmi 2024-11-29 14 00 18" src="https://github.com/user-attachments/assets/f4383b37-9df8-4855-8b47-ae3afa95b9b7">
-<img width="1440" alt="Ekran Resmi 2024-11-29 14 00 07" src="https://github.com/user-attachments/assets/483aa8fc-7003-4cb9-8213-029211d8ae14">
+### Video Demo
 
 
-## Contributing
+https://github.com/user-attachments/assets/71e00b71-e00c-49ac-8099-9ec245194246
 
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix:  
-   ```bash
-   git checkout -b new-feature
-   ```
-3. Commit your changes:  
-   ```bash
-   git commit -m "Add new feature"
-   ```
-4. Push your branch:  
-   ```bash
-   git push origin new-feature
-   ```
-5. Create a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
